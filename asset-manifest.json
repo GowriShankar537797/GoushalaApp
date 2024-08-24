@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GoushalaApp/static/css/main.45619824.css",
+    "main.js": "/GoushalaApp/static/js/main.610693ad.js",
+    "static/js/453.8566eefc.chunk.js": "/GoushalaApp/static/js/453.8566eefc.chunk.js",
+    "index.html": "/GoushalaApp/index.html",
+    "main.45619824.css.map": "/GoushalaApp/static/css/main.45619824.css.map",
+    "main.610693ad.js.map": "/GoushalaApp/static/js/main.610693ad.js.map",
+    "453.8566eefc.chunk.js.map": "/GoushalaApp/static/js/453.8566eefc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45619824.css",
+    "static/js/main.610693ad.js"
+  ]
+}
